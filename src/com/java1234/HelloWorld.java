@@ -9,6 +9,5 @@ public class HelloWorld {
 		System.out.println("shSGHJgjgjhsGDJHgjhg");
         System.out.println("idea");
         System.out.println("ffffffffff");
-        System.out.println("1111111");
 	}
 }
