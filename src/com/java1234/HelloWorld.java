@@ -1,6 +1,6 @@
 package com.java1234;
 
-import sun.java2d.opengl.WGLSurfaceData;
+//import sun.java2d.opengl.WGLSurfaceData;
 
 public class HelloWorld {
 	public static void main(String[] args) {
